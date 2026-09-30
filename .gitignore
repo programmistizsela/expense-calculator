@@ -1,0 +1,9 @@
+# Служебная папка Qwen Code
+.qwen/
+
+# ОС / редакторы
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
